@@ -5,6 +5,7 @@ tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "homebrew/services"
 brew "bat"
+brew "bluetoothconnector"
 brew "cask"
 brew "cocoapods"
 brew "fzf"
@@ -60,5 +61,5 @@ mas "WeatherBug", id: 1059074180
 mas "Xcode", id: 497799835
 mas "카카오톡", id: 869223134
 
-# 따로 설치해야 하는 것
-# Alfred4
+# Additional Install Program
+Alfred4
