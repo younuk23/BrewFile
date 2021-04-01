@@ -30,7 +30,6 @@ brew "zsh-autosuggestions"
 brew "zsh-syntax-highlighting"
 cask "adoptopenjdk8"
 cask "android-studio"
-cask "cleanmymac"
 cask "db-browser-for-sqlite"
 cask "dropbox"
 cask "google-chrome"
@@ -61,5 +60,5 @@ mas "WeatherBug", id: 1059074180
 mas "Xcode", id: 497799835
 mas "카카오톡", id: 869223134
 
-# Additional Install Program
-Alfred4
+# 추가설치
+# Alfred4
